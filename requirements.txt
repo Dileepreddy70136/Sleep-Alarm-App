@@ -1,0 +1,3 @@
+# SleepSync – Smart Sleep & Alarm Desktop Application Dependencies
+pygame>=2.5.0
+matplotlib>=3.6.0
